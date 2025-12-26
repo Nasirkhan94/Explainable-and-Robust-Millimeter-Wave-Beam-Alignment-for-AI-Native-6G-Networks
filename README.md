@@ -10,7 +10,7 @@ This repository contains the code and data supporting the paper "Explainable and
 
 ### 📄 Usage
   Boston5G scenario considered in this work can be accessed from  https://www.deepmimo.net/
- **Model_Training.py** – Training pipeline for the beam alignment model  
+- **Model_Training.py** – Training pipeline for the beam alignment model  
 - **testing_withandwithoutnoise.py** – Evaluation script to test performance under noise  
 - **beam_utils.py** – Utility functions for beam selection and metrics  
 - **Copy of Final_dknn.ipynb** – Deep k-Nearest Neighbors (DkNN) algorithm based credibility assessment and plotting function for reliability diagrams
@@ -20,7 +20,7 @@ This repository contains the code and data supporting the paper "Explainable and
 
 If you use this codebase in any form for academic or industrial research that results in a publication, please cite the corresponding paper.
 
-You may use the following BibTeX entry for citation:
+-You may use the following BibTeX entry for citation:
 
 @INPROCEEDINGS{khan_ICC25,
   author={Khan, Nasir and Abdallah, Asmaa and Celik, Abdulkadir and Eltawil, Ahmed M. and Coleri, Sinem},
