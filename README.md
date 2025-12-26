@@ -9,8 +9,8 @@ This repository contains the code and data supporting the paper "Explainable and
 - **Saved Models/** – Pretrained model checkpoints
 
 ### 📄 Usage
-1) Boston5G scenario considered in this work can be accessed from  https://www.deepmimo.net/
-2)**Model_Training.py** – Training pipeline for the beam alignment model  
+  Boston5G scenario considered in this work can be accessed from  https://www.deepmimo.net/
+ **Model_Training.py** – Training pipeline for the beam alignment model  
 - **testing_withandwithoutnoise.py** – Evaluation script to test performance under noise  
 - **beam_utils.py** – Utility functions for beam selection and metrics  
 - **Copy of Final_dknn.ipynb** – Deep k-Nearest Neighbors (DkNN) algorithm based credibility assessment and plotting function for reliability diagrams
